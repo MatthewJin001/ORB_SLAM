@@ -9,3 +9,4 @@ one library libg2o.so instead of four libraries (libg2o_core.so, libg2o_types.so
 
 ## 1.0.0 (03-03-2015)
 First ORB-SLAM Monocular version
+this is a test
